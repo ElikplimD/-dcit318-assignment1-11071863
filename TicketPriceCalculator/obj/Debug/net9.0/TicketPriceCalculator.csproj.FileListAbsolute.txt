@@ -13,3 +13,18 @@ C:\Users\PC\Desktop\LEVEL 300\Second sem\Dorin\data structures 308\-dcit318-assi
 C:\Users\PC\Desktop\LEVEL 300\Second sem\Dorin\data structures 308\-dcit318-assignment1-11071863\TicketPriceCalculator\obj\Debug\net9.0\TicketPriceCalculator.pdb
 C:\Users\PC\Desktop\LEVEL 300\Second sem\Dorin\data structures 308\-dcit318-assignment1-11071863\TicketPriceCalculator\obj\Debug\net9.0\TicketPriceCalculator.genruntimeconfig.cache
 C:\Users\PC\Desktop\LEVEL 300\Second sem\Dorin\data structures 308\-dcit318-assignment1-11071863\TicketPriceCalculator\obj\Debug\net9.0\ref\TicketPriceCalculator.dll
+C:\Users\PC\Desktop\LEVEL 300\Second sem\Dorin\Progrmming 2\dcit318-assignment1-11071863\TicketPriceCalculator\bin\Debug\net9.0\TicketPriceCalculator.exe
+C:\Users\PC\Desktop\LEVEL 300\Second sem\Dorin\Progrmming 2\dcit318-assignment1-11071863\TicketPriceCalculator\bin\Debug\net9.0\TicketPriceCalculator.deps.json
+C:\Users\PC\Desktop\LEVEL 300\Second sem\Dorin\Progrmming 2\dcit318-assignment1-11071863\TicketPriceCalculator\bin\Debug\net9.0\TicketPriceCalculator.runtimeconfig.json
+C:\Users\PC\Desktop\LEVEL 300\Second sem\Dorin\Progrmming 2\dcit318-assignment1-11071863\TicketPriceCalculator\bin\Debug\net9.0\TicketPriceCalculator.dll
+C:\Users\PC\Desktop\LEVEL 300\Second sem\Dorin\Progrmming 2\dcit318-assignment1-11071863\TicketPriceCalculator\bin\Debug\net9.0\TicketPriceCalculator.pdb
+C:\Users\PC\Desktop\LEVEL 300\Second sem\Dorin\Progrmming 2\dcit318-assignment1-11071863\TicketPriceCalculator\obj\Debug\net9.0\TicketPriceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\LEVEL 300\Second sem\Dorin\Progrmming 2\dcit318-assignment1-11071863\TicketPriceCalculator\obj\Debug\net9.0\TicketPriceCalculator.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\LEVEL 300\Second sem\Dorin\Progrmming 2\dcit318-assignment1-11071863\TicketPriceCalculator\obj\Debug\net9.0\TicketPriceCalculator.AssemblyInfo.cs
+C:\Users\PC\Desktop\LEVEL 300\Second sem\Dorin\Progrmming 2\dcit318-assignment1-11071863\TicketPriceCalculator\obj\Debug\net9.0\TicketPriceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\LEVEL 300\Second sem\Dorin\Progrmming 2\dcit318-assignment1-11071863\TicketPriceCalculator\obj\Debug\net9.0\TicketPriceCalculator.sourcelink.json
+C:\Users\PC\Desktop\LEVEL 300\Second sem\Dorin\Progrmming 2\dcit318-assignment1-11071863\TicketPriceCalculator\obj\Debug\net9.0\TicketPriceCalculator.dll
+C:\Users\PC\Desktop\LEVEL 300\Second sem\Dorin\Progrmming 2\dcit318-assignment1-11071863\TicketPriceCalculator\obj\Debug\net9.0\refint\TicketPriceCalculator.dll
+C:\Users\PC\Desktop\LEVEL 300\Second sem\Dorin\Progrmming 2\dcit318-assignment1-11071863\TicketPriceCalculator\obj\Debug\net9.0\TicketPriceCalculator.pdb
+C:\Users\PC\Desktop\LEVEL 300\Second sem\Dorin\Progrmming 2\dcit318-assignment1-11071863\TicketPriceCalculator\obj\Debug\net9.0\TicketPriceCalculator.genruntimeconfig.cache
+C:\Users\PC\Desktop\LEVEL 300\Second sem\Dorin\Progrmming 2\dcit318-assignment1-11071863\TicketPriceCalculator\obj\Debug\net9.0\ref\TicketPriceCalculator.dll
